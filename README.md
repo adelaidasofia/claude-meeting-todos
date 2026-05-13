@@ -20,9 +20,10 @@ The point is to never lose an action item to "I'll write that down later" — an
 
 ## Install
 
-```bash
-claude plugin add github.com/adelaidasofia/claude-meeting-todos
-```
+Open Claude Code, paste:
+
+    /plugin marketplace add adelaidasofia/claude-meeting-todos
+    /plugin install claude-meeting-todos@claude-meeting-todos
 
 Then in any Claude Code session:
 
@@ -31,6 +32,15 @@ Then in any Claude Code session:
 ```
 
 On first use, Claude asks where your meeting notes live and where your to-do file is. Takes 30 seconds, never asks again.
+
+<details>
+<summary>Legacy install</summary>
+
+```bash
+claude plugin add github.com/adelaidasofia/claude-meeting-todos
+```
+
+</details>
 
 ---
 
