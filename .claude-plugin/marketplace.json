@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "claude-meeting-todos",
+  "owner": {
+    "name": "Mycelium AI",
+    "url": "https://myceliumai.co"
+  },
+  "plugins": [
+    {
+      "name": "claude-meeting-todos",
+      "source": "./",
+      "description": "Extracts action items from meeting notes or transcripts and adds them to your to-do file. Separates your tasks from others' tasks, flags pending decisions, and confirms before writing."
+    }
+  ]
+}
