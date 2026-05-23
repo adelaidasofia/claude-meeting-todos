@@ -1,5 +1,18 @@
 # claude-meeting-todos
 
+
+<!-- mycelium-badges:start -->
+
+<p>
+  <a href="https://github.com/adelaidasofia/claude-meeting-todos/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/adelaidasofia/claude-meeting-todos?color=blue"></a>
+  <a href="https://github.com/adelaidasofia/claude-meeting-todos/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adelaidasofia/claude-meeting-todos?color=eab308"></a>
+  <a href="https://github.com/adelaidasofia/claude-meeting-todos/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/adelaidasofia/claude-meeting-todos"></a>
+  <a href="https://github.com/adelaidasofia/claude-meeting-todos/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/adelaidasofia/claude-meeting-todos"></a>
+  <a href="https://myceliumai.co"><img alt="Built by Mycelium AI" src="https://img.shields.io/badge/built_by-Mycelium_AI-15B89A"></a>
+</p>
+
+<!-- mycelium-badges:end -->
+
 A Claude Code plugin that extracts action items from meeting notes or transcripts and adds them to your to-do file. Separates your tasks from others' tasks, flags pending decisions, and confirms before writing.
 
 ---
